@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 
 def fetch_text():
